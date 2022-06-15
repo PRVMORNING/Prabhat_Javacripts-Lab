@@ -1,0 +1,72 @@
+body{background-image: url('canop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    
+    
+    height: 100vh;
+    width: 1600px;
+    text-align: center;
+
+}
+
+.container{
+
+display: block;
+width: 300px;
+margin: 5% auto;
+
+}
+header input{
+    display: block;
+    margin: 5px auto;
+    width: 200px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 1px 3px orchid;
+
+    background-color: rgb(188, 208, 112);
+    color: white;
+    font-size: 1.1em;
+
+}
+
+.date{
+    font-size: 30px;
+    margin-top: 10px;
+    color: rgb(15, 241, 19);
+}
+
+.temp{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-shadow: 0px 1px black;
+    color: rgb(241, 222, 15);
+}
+
+.city{
+    font-size: 30px;
+    margin-top: 10px;
+    color: rgb(215, 215, 125);
+}
+
+.current{
+    font-size: large;
+    color: darkgoldenrod;
+}
+
+
+.weather{
+
+    font-size: large;
+    color: burlywood;
+}
+.High-Low{
+
+    font-size:x-large;
+    color: rgb(157, 244, 19);
+}
+
